@@ -3,7 +3,7 @@
 
 **日本語版は下記**
 
-# English
+### English
 
 # Emotion-analysis LINEbot
  
@@ -38,7 +38,7 @@ pip install -r requirements.txt
 This project is based on Shinji Matsumoto's "[Python と AWS で始める!! 感情分析 AI を使った実践的 LINE Bot 開発入門
 ](https://www.udemy.com/course/python-aws-ai-line-bot/)" course on Udemy.
 
-# 日本語
+### 日本語
 
 # 感情分析LINEbot
  
